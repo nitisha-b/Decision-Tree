@@ -5,5 +5,5 @@ and using it to determine which feature is most informative.
 
 <br> 
 
-This program is very specific to the given data set. 
+This program is very specific to the given data set. It helps answer the question if someone should buy a computer or not and uses the data set as features of the people, and determines one feature that is most valuable to make this decision.  
 
