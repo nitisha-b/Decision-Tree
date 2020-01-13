@@ -2,7 +2,10 @@
 
 
 *A project for Speech Synthesis and Recognition class.*
+
 <br>
+<br>
+
 This program will determine the most informative feature from a particular data set by calculating the entropy of each feature
 and using it to determine which feature is most informative. 
 
